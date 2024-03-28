@@ -78,8 +78,8 @@ body{
     /*wrapper*/
     .wrapper{
         width: 100%;
-        /* display: grid;
-        grid-template-columns: 50% 50%; */
+         display: grid;
+        grid-template-columns: 50% 50%; 
         padding: 20px;
         padding-top: 30px;
         .content{
@@ -87,7 +87,7 @@ body{
                 width: 100%;
                 overflow: hidden;
                 h1{
-                    /* font-size: 130px; */
+                     font-size: 130px; 
                     line-height: 99%;
                   padding: 16px 0px;
                     text-shadow: 2px 2px 3px rgba(7, 53, 61, 0.4),
@@ -111,7 +111,7 @@ body{
                 color: #eff6e0;
                 font-size: 17px;
                 line-height: 109%;
-                /* width: 70%; */
+                 width: 70%; 
              padding-top: 20px;
             }
             &>a{
@@ -240,8 +240,8 @@ body{
    
     .img{
         
-        /* margin-top: 188px; */
-        /* margin-bottom: 50px; */
+         margin-top: 188px;
+         margin-bottom: 50px; 
         .one{
             top: 0;
             left: 0;
@@ -394,7 +394,7 @@ body{
         border-radius: 0.9rem;
         overflow: hidden;
         top: 18rem;
-        /* left: -7rem; */
+         left: -7rem; 
        
        
     }
@@ -406,7 +406,7 @@ body{
     }
     .hero_gallery_frame_figure:nth-child(3){
         position: absolute;
-        /* height: 33rem; */
+         height: 33rem; 
         width: 23rem;
         filter: drop-shadow(0px 1.125px 36px rgba(0,0,0,0.15));
         box-shadow: 0px 0px 15px #000,
@@ -414,8 +414,8 @@ body{
         border: 1px solid #000;
         border-radius: 0.9rem;
         overflow: hidden;
-       /* top: 2rem; */
-       /* left: 21.6rem; */
+        top: 2rem; 
+        left: 21.6rem; 
        z-index: -1;
        
        
@@ -471,7 +471,7 @@ body{
     }
     .hero_gallery_frame:nth-child(1){
         top: -14.3rem;
-        /* left: 15.3rem; */
+         left: 15.3rem; 
         z-index: 1;
     }
    .hero_title{
@@ -488,7 +488,7 @@ body{
     justify-content: center;
    }
    .hero_title h1{
-    /* font-size: 9rem; */
+     font-size: 9rem; 
     font-weight: 500;
     text-align: center;
     color: #aec3b0;
